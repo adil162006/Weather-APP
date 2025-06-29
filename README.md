@@ -12,7 +12,14 @@ A simple weather application built using **React** and **Material UI** that lets
 - 📦 Fetches data from OpenWeatherMap API
 
 ---
+##📌 Steps to get the API key:
+Go to https://openweathermap.org/api
 
+Click Sign Up (or Log In if you already have an account)
+
+After logging in, go to the API Keys tab
+
+Copy your default key or create a new one
 
 
 ## 🛠️ Installation
